@@ -1,7 +1,7 @@
 {
-  "name": "benyahia-ai-backend",
+  "name": "openai-call",
   "version": "1.0.0",
-  "description": "Experimenting with OpenAI different options, using reactjs and nodejs",
+  "description": "OpenAI proxy for chatgpt",
   "main": "server.js",
   "scripts": {
     "dev": "node --watch server.js",
@@ -13,7 +13,7 @@
     "openai",
     "chatgpt"
   ],
-  "author": "adelpro",
+  "author": "",
   "license": "MIT",
   "dependencies": {
     "dotenv": "^16.0.3",
